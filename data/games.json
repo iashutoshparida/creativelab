@@ -1,0 +1,23 @@
+[
+  {
+    "id": "tile_harbor",
+    "name": "Tile Harbor",
+    "genre": "puzzle",
+    "store_page": "Match colourful tiles to rebuild a seaside town. Over 2,000 levels, daily challenges and relaxing music. Play offline anytime.",
+    "usp": ["2,000+ levels", "daily challenges", "play offline"]
+  },
+  {
+    "id": "drift_kings",
+    "name": "Drift Kings",
+    "genre": "racing",
+    "store_page": "Tune your car, master the drift and race friends in real-time 1v1 duels. Unlock 60 cars and climb the weekly leaderboard.",
+    "usp": ["60 cars", "real-time 1v1", "weekly leaderboard"]
+  },
+  {
+    "id": "realm_of_ash",
+    "name": "Realm of Ash",
+    "genre": "rpg",
+    "store_page": "Build a squad of heroes, explore a ruined kingdom and fight epic bosses. Guilds, raids and a story with 12 chapters.",
+    "usp": ["hero squads", "guild raids", "12-chapter story"]
+  }
+]

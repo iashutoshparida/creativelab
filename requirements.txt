@@ -1,0 +1,9 @@
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+scikit-learn>=1.4
+xgboost>=2.0
+langgraph>=0.2
+pytest>=8.0
+# optional: set ANTHROPIC_API_KEY to have Claude write the ad copy
+# anthropic>=0.40

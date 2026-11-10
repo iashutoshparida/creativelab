@@ -1,0 +1,14 @@
+{
+  "auc": 0.614665275471886,
+  "auc_logreg": 0.607481990211197,
+  "auc_oracle": 0.6211114776922423,
+  "logloss": 0.14870260655879974,
+  "logloss_logreg": 0.14903856813907623,
+  "ctr_observed": 0.0349225,
+  "ctr_predicted": 0.03473566100001335,
+  "train_impressions": 2000000,
+  "train_creatives": 600,
+  "holdout_impressions": 400000,
+  "variant_rank_spearman_mean": 0.8819262038774235,
+  "top8_vs_all40_true_ctr_lift_mean": 0.33201192390209644
+}

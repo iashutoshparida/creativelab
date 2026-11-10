@@ -1,0 +1,275 @@
+{
+  "tile_harbor": {
+    "log": [
+      "planned 40 variants",
+      "wrote 40 (template)",
+      "policy failures: 0",
+      "dropped 0 after rewrite, scored 40",
+      "selected 8"
+    ],
+    "selected": [
+      {
+        "hook": "fail_bait",
+        "visual": "gameplay",
+        "cta": "join_friends",
+        "length": 15,
+        "headline": "Can you do better than this?",
+        "body": "2,000+ levels, daily challenges and play offline in Tile Harbor. Join your friends.",
+        "pred_ctr": 0.05574,
+        "true_ctr": 0.05193
+      },
+      {
+        "hook": "fail_bait",
+        "visual": "cinematic",
+        "cta": "try_level_1",
+        "length": 6,
+        "headline": "Can you do better than this?",
+        "body": "2,000+ levels, daily challenges and play offline in Tile Harbor. Try level 1.",
+        "pred_ctr": 0.04996,
+        "true_ctr": 0.05147
+      },
+      {
+        "hook": "curiosity",
+        "visual": "ugc_style",
+        "cta": "play_now",
+        "length": 6,
+        "headline": "Nobody expected this in Tile Harbor",
+        "body": "2,000+ levels, daily challenges and play offline in Tile Harbor. Play now.",
+        "pred_ctr": 0.04667,
+        "true_ctr": 0.0394
+      },
+      {
+        "hook": "curiosity",
+        "visual": "satisfying_loop",
+        "cta": "download_free",
+        "length": 6,
+        "headline": "Nobody expected this in Tile Harbor",
+        "body": "2,000+ levels, daily challenges and play offline in Tile Harbor. Download free.",
+        "pred_ctr": 0.04565,
+        "true_ctr": 0.04471
+      },
+      {
+        "hook": "fail_bait",
+        "visual": "character",
+        "cta": "download_free",
+        "length": 15,
+        "headline": "Can you do better than this?",
+        "body": "2,000+ levels, daily challenges and play offline in Tile Harbor. Download free.",
+        "pred_ctr": 0.04402,
+        "true_ctr": 0.0539
+      },
+      {
+        "hook": "reward",
+        "visual": "gameplay",
+        "cta": "try_level_1",
+        "length": 6,
+        "headline": "Daily rewards in Tile Harbor",
+        "body": "2,000+ levels, daily challenges and play offline in Tile Harbor. Try level 1.",
+        "pred_ctr": 0.04352,
+        "true_ctr": 0.03801
+      },
+      {
+        "hook": "question",
+        "visual": "ugc_style",
+        "cta": "try_level_1",
+        "length": 15,
+        "headline": "Ready for 2,000+ levels?",
+        "body": "2,000+ levels, daily challenges and play offline in Tile Harbor. Try level 1.",
+        "pred_ctr": 0.04166,
+        "true_ctr": 0.0388
+      },
+      {
+        "hook": "reward",
+        "visual": "ugc_style",
+        "cta": "download_free",
+        "length": 15,
+        "headline": "Daily rewards in Tile Harbor",
+        "body": "2,000+ levels, daily challenges and play offline in Tile Harbor. Download free.",
+        "pred_ctr": 0.04145,
+        "true_ctr": 0.03698
+      }
+    ]
+  },
+  "drift_kings": {
+    "log": [
+      "planned 40 variants",
+      "wrote 40 (template)",
+      "policy failures: 0",
+      "dropped 0 after rewrite, scored 40",
+      "selected 8"
+    ],
+    "selected": [
+      {
+        "hook": "challenge",
+        "visual": "ugc_style",
+        "cta": "download_free",
+        "length": 15,
+        "headline": "Think you can beat level 10?",
+        "body": "60 cars, real-time 1v1 and weekly leaderboard in Drift Kings. Download free.",
+        "pred_ctr": 0.05508,
+        "true_ctr": 0.05591
+      },
+      {
+        "hook": "fail_bait",
+        "visual": "satisfying_loop",
+        "cta": "try_level_1",
+        "length": 15,
+        "headline": "Can you do better than this?",
+        "body": "60 cars, real-time 1v1 and weekly leaderboard in Drift Kings. Try level 1.",
+        "pred_ctr": 0.05114,
+        "true_ctr": 0.05741
+      },
+      {
+        "hook": "challenge",
+        "visual": "satisfying_loop",
+        "cta": "join_friends",
+        "length": 6,
+        "headline": "Think you can beat level 10?",
+        "body": "60 cars, real-time 1v1 and weekly leaderboard in Drift Kings. Join your friends.",
+        "pred_ctr": 0.04816,
+        "true_ctr": 0.05063
+      },
+      {
+        "hook": "curiosity",
+        "visual": "ugc_style",
+        "cta": "try_level_1",
+        "length": 6,
+        "headline": "Nobody expected this in Drift Kings",
+        "body": "60 cars, real-time 1v1 and weekly leaderboard in Drift Kings. Try level 1.",
+        "pred_ctr": 0.04611,
+        "true_ctr": 0.05015
+      },
+      {
+        "hook": "reward",
+        "visual": "gameplay",
+        "cta": "play_now",
+        "length": 15,
+        "headline": "Daily rewards in Drift Kings",
+        "body": "60 cars, real-time 1v1 and weekly leaderboard in Drift Kings. Play now.",
+        "pred_ctr": 0.04469,
+        "true_ctr": 0.04175
+      },
+      {
+        "hook": "reward",
+        "visual": "ugc_style",
+        "cta": "play_now",
+        "length": 15,
+        "headline": "Daily rewards in Drift Kings",
+        "body": "60 cars, real-time 1v1 and weekly leaderboard in Drift Kings. Play now.",
+        "pred_ctr": 0.04399,
+        "true_ctr": 0.04731
+      },
+      {
+        "hook": "social_proof",
+        "visual": "gameplay",
+        "cta": "try_level_1",
+        "length": 15,
+        "headline": "Your next favourite racing game",
+        "body": "60 cars, real-time 1v1 and weekly leaderboard in Drift Kings. Try level 1.",
+        "pred_ctr": 0.04001,
+        "true_ctr": 0.04821
+      },
+      {
+        "hook": "reward",
+        "visual": "satisfying_loop",
+        "cta": "download_free",
+        "length": 6,
+        "headline": "Daily rewards in Drift Kings",
+        "body": "60 cars, real-time 1v1 and weekly leaderboard in Drift Kings. Download free.",
+        "pred_ctr": 0.0395,
+        "true_ctr": 0.03688
+      }
+    ]
+  },
+  "realm_of_ash": {
+    "log": [
+      "planned 40 variants",
+      "wrote 40 (template)",
+      "policy failures: 0",
+      "dropped 0 after rewrite, scored 40",
+      "selected 8"
+    ],
+    "selected": [
+      {
+        "hook": "curiosity",
+        "visual": "ugc_style",
+        "cta": "play_now",
+        "length": 6,
+        "headline": "Nobody expected this in Realm of Ash",
+        "body": "Hero squads, guild raids and 12-chapter story in Realm of Ash. Play now.",
+        "pred_ctr": 0.05898,
+        "true_ctr": 0.05412
+      },
+      {
+        "hook": "curiosity",
+        "visual": "satisfying_loop",
+        "cta": "join_friends",
+        "length": 15,
+        "headline": "Nobody expected this in Realm of Ash",
+        "body": "Hero squads, guild raids and 12-chapter story in Realm of Ash. Join your friends.",
+        "pred_ctr": 0.04973,
+        "true_ctr": 0.04794
+      },
+      {
+        "hook": "reward",
+        "visual": "satisfying_loop",
+        "cta": "join_friends",
+        "length": 15,
+        "headline": "Daily rewards in Realm of Ash",
+        "body": "Hero squads, guild raids and 12-chapter story in Realm of Ash. Join your friends.",
+        "pred_ctr": 0.04531,
+        "true_ctr": 0.04316
+      },
+      {
+        "hook": "reward",
+        "visual": "ugc_style",
+        "cta": "download_free",
+        "length": 15,
+        "headline": "Daily rewards in Realm of Ash",
+        "body": "Hero squads, guild raids and 12-chapter story in Realm of Ash. Download free.",
+        "pred_ctr": 0.04525,
+        "true_ctr": 0.04596
+      },
+      {
+        "hook": "curiosity",
+        "visual": "gameplay",
+        "cta": "download_free",
+        "length": 15,
+        "headline": "Nobody expected this in Realm of Ash",
+        "body": "Hero squads, guild raids and 12-chapter story in Realm of Ash. Download free.",
+        "pred_ctr": 0.04441,
+        "true_ctr": 0.04311
+      },
+      {
+        "hook": "reward",
+        "visual": "gameplay",
+        "cta": "try_level_1",
+        "length": 6,
+        "headline": "Daily rewards in Realm of Ash",
+        "body": "Hero squads, guild raids and 12-chapter story in Realm of Ash. Try level 1.",
+        "pred_ctr": 0.04347,
+        "true_ctr": 0.04767
+      },
+      {
+        "hook": "reward",
+        "visual": "character",
+        "cta": "try_level_1",
+        "length": 15,
+        "headline": "Daily rewards in Realm of Ash",
+        "body": "Hero squads, guild raids and 12-chapter story in Realm of Ash. Try level 1.",
+        "pred_ctr": 0.0423,
+        "true_ctr": 0.03535
+      },
+      {
+        "hook": "challenge",
+        "visual": "satisfying_loop",
+        "cta": "play_now",
+        "length": 15,
+        "headline": "Think you can beat level 10?",
+        "body": "Hero squads, guild raids and 12-chapter story in Realm of Ash. Play now.",
+        "pred_ctr": 0.04173,
+        "true_ctr": 0.04105
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "tests": 100,
+  "median_impressions_uniform": 88500.0,
+  "median_impressions_thompson": 59000.0,
+  "impression_reduction": 0.33333333333333337,
+  "correct_rate_uniform": 0.95,
+  "correct_rate_thompson": 0.95,
+  "ctr_during_test_uniform": 0.04614341904426441,
+  "ctr_during_test_thompson": 0.05425441197232811,
+  "cap_hits_uniform": 11,
+  "cap_hits_thompson": 6
+}

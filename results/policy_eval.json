@@ -1,0 +1,38 @@
+{
+  "violating_ads": 120,
+  "clean_ads": 120,
+  "recall": 1.0,
+  "false_positive_rate": 0.0,
+  "missed_by_category": {
+    "money_promise": 0,
+    "guarantee": 0,
+    "fake_alert": 0,
+    "competitor": 0,
+    "platform_claim": 0,
+    "health_claim": 0,
+    "misleading_free": 0,
+    "unverified_stat": 0,
+    "length": 0,
+    "empty": 0
+  },
+  "missed": [],
+  "false_positives": [],
+  "heldout": {
+    "violating_ads": 40,
+    "clean_ads": 40,
+    "recall": 0.975,
+    "false_positive_rate": 0.0,
+    "missed": [
+      [
+        "length",
+        "Fine headline",
+        "This body copy goes on and on, describing every single feature, every level, every hero and every mode in great detail."
+      ]
+    ],
+    "false_positives": []
+  },
+  "gate": {
+    "min_recall": 0.9,
+    "max_fpr": 0.05
+  }
+}
